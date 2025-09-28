@@ -1,0 +1,14 @@
+1. Start the mongo
+   cd data/db
+   mongod --dbpath=/Users/C5367816/data/db
+2. Login to mqsql
+    1.cd /usr/local/mysql/bin
+    2. sudo mysql -u root -p
+3. Start RabbitMQ
+    In home directory
+    CONF_ENV_FILE="/opt/homebrew/etc/rabbitmq/rabbitmq-env.conf" /opt/homebrew/opt/rabbitmq/sbin/rabbitmq-server
+    http://localhost:15672/#/
+4. Start eureka service registory
+5. Start config servier
+5. Start api gate way
+6. Start microserves(userservice,activitysrvice,aiservice)
