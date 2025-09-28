@@ -1,0 +1,10 @@
+com/fitness/userservice/dto/RegiserRequest.class
+com/fitness/userservice/Repository/UserRepository.class
+com/fitness/userservice/config/ModelMapperConfig.class
+com/fitness/userservice/Controller/UserController.class
+com/fitness/userservice/UserserviceApplication.class
+com/fitness/userservice/exception/GlobalExceptionHandler.class
+com/fitness/userservice/dto/UserResponse.class
+com/fitness/userservice/Model/UserRole.class
+com/fitness/userservice/Model/User.class
+com/fitness/userservice/Service/UserService.class

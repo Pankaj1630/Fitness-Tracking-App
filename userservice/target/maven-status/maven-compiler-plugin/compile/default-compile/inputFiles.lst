@@ -1,0 +1,10 @@
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/Controller/UserController.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/Model/User.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/Model/UserRole.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/Repository/UserRepository.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/Service/UserService.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/UserserviceApplication.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/config/ModelMapperConfig.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/dto/RegiserRequest.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/dto/UserResponse.java
+/Users/C5367816/Documents/JavPractice/FitnessApp/userservice/src/main/java/com/fitness/userservice/exception/GlobalExceptionHandler.java
